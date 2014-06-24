@@ -1,7 +1,8 @@
 # Site settings
-title: Petr Penzin
+title: ppenzin
 email: 
-description: "Started migration of my technical blog away from blogger. Will finish and pretty up everything."
+twitter: ppenzin
+description: "A (possibly technical) blog of Petr Penzin."
 baseurl: ""
 url: "http://ppenzin.github.io"
 

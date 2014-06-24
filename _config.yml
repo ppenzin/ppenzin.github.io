@@ -1,0 +1,10 @@
+# Site settings
+title: Petr Penzin
+email: 
+description: "Started migration of my technical blog away from blogger. Will finish and pretty up everything."
+baseurl: ""
+url: "http://ppenzin.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

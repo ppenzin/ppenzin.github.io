@@ -9,3 +9,18 @@ url: "http://ppenzin.github.io"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+  provider : disqus
+  discus:
+    short_name: ppenzingithubio
+  facebook :
+    appid : 666308690117034
+    num_posts: 5
+    width: 580
+    colorscheme: light
+

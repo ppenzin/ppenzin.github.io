@@ -10,14 +10,12 @@ url: "http://ppenzin.github.io"
 markdown: kramdown
 permalink: pretty
 
-# Settings for comments helper
-# Set 'provider' to the comment provider you want to use.
-# Set 'provider' to false to turn commenting off globally.
-#
+# Set comment provider to 'disqus' or 'facebook' to enable one of those systems
+# otherwise comments are disabled. See post template for details.
 comments :
   provider : disqus
-  discus:
-    short_name: ppenzingithubio
+  disqus :
+    shortname: ppenzingithubio
   facebook :
     appid : 666308690117034
     num_posts: 5

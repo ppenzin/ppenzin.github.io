@@ -1,7 +1,7 @@
 # Site settings
 title: ppenzin
 email: 
-twitter: ppenzin
+username: ppenzin
 description: "A (possibly technical) blog of Petr Penzin."
 baseurl: ""
 url: "http://ppenzin.github.io"

@@ -1,21 +1,22 @@
 ---
 layout: post
 comments: true
-title:  "Palm Veer"
+title:  "Palm Veer Experience Report"
 date:   2014-06-29 09:43:43
 categories: WebOS Preware
 ---
 
-### Background
-This post might contain significant amount of my personal opinion, beware. I
-recently had to connect up an HP Palm Veer, that I bought a while ago.
-Hardware asside (but make sure you have the Touchstone, Palm wireless charger),
-here is what you need to get started.  
+This is my esperience report setting up my HP Palm Veer. I am not a WebOS
+hacker myself, so some of the information may sound opinionated or naive.
 
-### WebOS Nation
+Hardware is mostly out of scope of this post, though I would definitely
+recommend getting Touchstone (Palm wireless charger).
+
 [WebOS Nation][wosn] forums are probably the best source of information about
 modern Palm development. If you are interested in getting communtiy patches,
 you might need an account there.
+
+Here are the trials that I had to go through.
 
 ### App catalog update
 HP released an app catalog update on July 23, 2013. If you reading this now,
@@ -30,6 +31,8 @@ bomb", so here is what you do:
 
 [Source][appcatalog-fix]
 
+TODO now the catalog is blank. It is a sertificate error, need to find a fix.
+
 ### Community Software
 Community software for WebOS is installed via QuickInstall. It works for both
 applications and OS patches (more on that later). Sources can be found on
@@ -43,6 +46,11 @@ unless you are developing your own homebrew software or installing patches.
 In short, a while back Google changed how their authentication works, and
 'official' WebOS has not caught up with it. To fix this, just install [the
 patch][gsync] from WebOS Nation using QuickInstall.
+
+### Facebook
+Adding a Facebook account results in 'synching account' spinning forever.
+
+TODO find a fix
 
 [appcatalog-fix]: http://h30434.www3.hp.com/t5/webOS-Hardware-and-Software/App-Catalog-not-working-Missed-the-update-Try-this/td-p/2823109
 [preware]: http://www.webosnation.com/how-install-homebrew-apps-your-touchpad-or-webos-smartphone

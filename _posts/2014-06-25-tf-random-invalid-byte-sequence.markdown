@@ -53,7 +53,7 @@ cap_mkdb /etc/login.conf
 {% endhighlight %}
 
 After that relogin to your environment. More details in the mentioned
-[post][jekyll-post]. Thank to [Patrick Gibson][pgib] for sharing the solution.
+[post][jekyll-post]. Thanks to [Patrick Gibson][pgib] for sharing the solution.
 
 [jekyll-post]: https://pgib.me/blog/2013/09/25/jekyll-freebsd-byte-sequence/
 [pgib]: https://pgib.me/

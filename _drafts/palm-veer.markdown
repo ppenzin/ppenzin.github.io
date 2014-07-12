@@ -52,6 +52,12 @@ Adding a Facebook account results in 'synching account' spinning forever.
 
 TODO find a fix
 
+### Outdated synergy services
+Most of the synergy services are not kept up to date, so you would get the
+"syncing accout sign" spinning forever. Those situations tend to break the
+phone's connectivity, so disable the account if you see that. I only had
+limited luck with Gmail (haven't tried generic emails though).
+
 [appcatalog-fix]: http://h30434.www3.hp.com/t5/webOS-Hardware-and-Software/App-Catalog-not-working-Missed-the-update-Try-this/td-p/2823109
 [preware]: http://www.webosnation.com/how-install-homebrew-apps-your-touchpad-or-webos-smartphone
 [quickinstall-src]: https://github.com/JayCanuck/webos-quick-install

@@ -18,6 +18,11 @@ you might need an account there.
 
 Here are the trials that I had to go through.
 
+### Intermittent network failure
+I am getting this: http://h30434.www3.hp.com/t5/webOS-Hardware-and-Software/Veer-intermittent-problem-unable-to-send-receive-calls/td-p/2112718
+
+There is no known fix and I don't have any idea why that is happenning.
+
 ### App catalog update
 HP released an app catalog update on July 23, 2013. If you reading this now,
 then you are already late, which means that you would not be able to update the

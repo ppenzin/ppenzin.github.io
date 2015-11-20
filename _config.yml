@@ -22,3 +22,8 @@ comments :
     width: 580
     colorscheme: light
 
+static_files:
+  resume:
+    path: /static/Penzin.pdf
+    modified_time: 1441156245
+    extname: .pdf

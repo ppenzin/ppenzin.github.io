@@ -5,6 +5,7 @@ username: ppenzin
 description: "A (possibly technical) blog of Petr Penzin."
 baseurl: ""
 url: "http://ppenzin.github.io"
+r: /static/Penzin.pdf
 
 # Build settings
 markdown: kramdown
@@ -27,3 +28,7 @@ static_files:
     path: /static/Penzin.pdf
     modified_time: 1441156245
     extname: .pdf
+  resume:
+    path: /static/hp-pavilion-zv5000-ih3-800.jpg
+    modified_time: 1447991246
+    extname: .jpg

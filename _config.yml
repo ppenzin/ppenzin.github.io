@@ -1,6 +1,7 @@
 # Site settings
 title: ppenzin
 email: 
+epigraph: "Herding cats"
 username: ppenzin
 description: "A (possibly technical) blog of Petr Penzin."
 baseurl: ""

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "What do programmers do"
-date:  2015-11-24 18:00:36
+date:  2016-06-07 22:47:17
 categories: [Software, Education]
 ---
 

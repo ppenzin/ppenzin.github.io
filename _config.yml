@@ -10,7 +10,13 @@ resume_file: /static/Penzin.pdf
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+#permalink: pretty
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 # Set comment provider to 'disqus' or 'facebook' to enable one of those systems
 # otherwise comments are disabled. See post template for details.

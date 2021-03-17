@@ -11,11 +11,11 @@ This old rant came up in a conversation with a colleague, here is a
 [two](https://www.researchgate.net/publication/220092569_The_Software_Developer_as_Movie_Icon).
 Warren Harrison (former PSU CS chair and IEEE Software editor) wrote an
 excellent take on what's wrong with CS education. He does a little bit of old
-man rambling and, of course, in his opinion it is the students, but his article
-really does expose a lot of problems in the system itself.
+man rambling; and, of course, it is the students, but his article really does
+expose a lot of problems in the system itself.
 
-Colleague's reaction was: "this is hopeless, if people draw information about
-their future field from movies then nothing could be done." While the idea than
+A colleague's reaction was: "this is hopeless, if people draw information about
+their future field from movies then nothing could be done." While the idea that
 undergrads would be inspired by popular culture to choose their major sounds silly,
 there nothing too astonishing about it. I think the main reason this happens is
 information vacuum surrounding STEM disciplines in the US. While everyone

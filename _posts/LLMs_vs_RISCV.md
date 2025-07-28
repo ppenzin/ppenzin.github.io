@@ -6,6 +6,8 @@ date:  2025-07-25 17:46:19
 categories: [LLM, RISC-V]
 ---
 
+First exposuore to rudimentary ML technologies is GEHL branch predictor that I've done for a class project. It is of course light years away from the machine learning tech that is all the talk this days, but it is also solving a problem that is light years away from the problems AI is used for today.
+
 Asking Large Langugage Models RISC-V questions.
 
 Easy one - Is Zicond part of RVA23? Claude Haiku doesn't think Zicond is a valid extension, while Sonnet correctly answers that it is part of RVA23. That is understandable given timeline of these releases.
@@ -36,4 +38,6 @@ void compute_abs_int_vector(int* input, int* output, size_t n) {
 }
 ```
 
-Rhere is not `vabs` intrinsic or instruction in RISC-V. Interestingly, Sonnet actually gets the right answer, producing both test and negate as well as `max(x, -x)` implementation.
+There is no `vabs` intrinsic or instruction in RISC-V. Interestingly, Sonnet actually gets the right answer, producing two alternative implementations: mask and negate as well as `max(x, -x)`. It is actually quite impressive, as onlie resources discussing this can be counted on one hand - meanning the model was able to correcty abosrb this tiny moresl of intformation in its ocean of traning data.
+
+It doesn't correctly descibe the tradeoffs between the two.
